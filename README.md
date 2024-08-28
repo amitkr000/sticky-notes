@@ -4,6 +4,9 @@
 
 This Sticky Note Web App is a simple and intuitive tool for creating, organizing, and managing sticky notes directly in your web browser. With this app, you can create new notes, delete existing ones, and change the color of each note to suit your preferences. The app also includes an auto-save feature, ensuring that your notes are always up-to-date. All notes are stored and retrieved from a database using the Appwrite service, providing reliable and secure data management.
 
+
+![Screenshot 2024-08-28 192642](https://github.com/user-attachments/assets/0236e09b-b9e2-4890-afc7-81af0215864c)
+
 ## Features
 
 - **Create Sticky Notes**: Easily add new sticky notes to your workspace.
