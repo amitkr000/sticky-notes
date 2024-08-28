@@ -31,8 +31,8 @@ Before you begin, ensure you have met the following requirements:
 ### Clone the Repository
 
 ```bash
-git clone 
-cd 
+git clone https://github.com/amitkr000/sticky-notes
+cd sticky-notes
 ```
 
 ### Install Dependencies
